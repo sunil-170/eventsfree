@@ -421,6 +421,30 @@ nav ul li a {
     color: #FFFFFF;
 }
 
+.big_hr_a {
+    height: 8px;
+    max-width: 469.50262451171875px;
+    background: #01C8FF;
+}
+
+.big_hr_b {
+    height: 8px;
+    max-width: 414.56085205078125px;
+    background: #2C49FE;
+}
+
+.small_hr_a {
+    height: 8px;
+    max-width:188px;
+    background: #01C8FF;
+}
+
+.small_hr_b {
+    height: 8px;
+    max-width: 166px    ;
+    background: #2C49FE;
+}
+
 /*...................... section2 ................*/
 .section2_box {
     background-image: url(../image/png/section3_bg111.png);
@@ -533,7 +557,7 @@ nav ul li a {
 }
 
 .p_top173 {
-    padding-top: 173px;
+    padding-top: 140px;
 }
 
 .p_top122 {
@@ -807,7 +831,14 @@ nav ul li a {
         display: flex;
         align-items: center;
         justify-content: center;
+    }
 
+    .big_hr_a {
+        width: 500px;
+    }
+
+    .big_hr_b {
+        width: 460px;
     }
 
     .flex_d_c_md {
@@ -861,6 +892,14 @@ nav ul li a {
         width: 100%;
         padding-left: 12px;
         padding-right: 12px;
+    }
+
+    .big_hr_a {
+        width: 200px;
+    }
+
+    .big_hr_b {
+        width: 160px;
     }
 
 
